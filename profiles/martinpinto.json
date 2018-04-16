@@ -1,0 +1,37 @@
+{
+    "name": "Martin Pinto-Bazurco",
+    "title": "Software Engineer",
+    "email": "martinpintob@gmail.com",
+    "phone": "",
+    "desc": "Software Engineer with consulting and management experience.",
+    "website": "https://twitter.com/martinpintob",
+    "city": [
+        "Frankfurt",
+        "Darmstadt"
+    ],
+    "available": true,
+    "keywords": [
+        "microservices",
+        "serverless",
+        "frontend",
+        "angular",
+        "dotnet"
+    ],
+    "profiles": {
+        "gravatar": "",
+        "twitter": "http://twitter.com/martinpintob",
+        "github": "http://github.com/martinpinto",
+        "linkedin": "http://www.linkedin.com/in/martinpinto/",
+        "google+": "",
+        "facebook": "",
+        "xing": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
