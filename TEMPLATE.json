@@ -1,0 +1,35 @@
+{
+    "name": "Jane Doe",
+    "title": "Software Engineer",
+    "email": "jane.doe@example.com",
+    "phone": "0151 1234 567",
+    "desc": "Yet another Software Developer yelling at the screen",
+    "website": "http://www.example.com",
+    "city": [
+        "Frankfurt",
+        "Darmstadt"
+    ],
+    "available": true,
+    "keywords": [
+        "microservices",
+        "distributed systems",
+        "serverless"
+    ],
+    "profiles": {
+        "gravatar": "jane.doe@example.com",
+        "twitter": "http://twitter.com/jane.doe",
+        "github": "http://github.com/janedoe",
+        "linkedin": "http://linkedin.com/in/janedoe",
+        "google+": "",
+        "facebook": "",
+        "xing": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
