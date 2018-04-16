@@ -1,0 +1,34 @@
+{
+    "name": "Sandeep Sadanandan",
+    "title": "Software Engineer",
+    "email": "consult@thecodeartist.de",
+    "phone": "+4917666645928",
+    "desc": "A coder with a softcorner for algorithms",
+    "website": "http://thecodeartist.de",
+    "city": [
+        "Frankfurt"
+    ],
+    "available": true,
+    "keywords": [
+        "microservices",
+        "distributed systems",
+        "RESTful API"
+    ],
+    "profiles": {
+        "gravatar": "sillyfellow@whybenormal.org",
+        "twitter": "http://twitter.com/sadanandeep",
+        "github": "http://github.com/sillyfellow",
+        "linkedin": "http://linkedin.com/in/sandeepsadanandan",
+        "google+": "",
+        "facebook": "",
+        "xing": "https://www.xing.com/profile/Sandeep_Sadanandan",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
