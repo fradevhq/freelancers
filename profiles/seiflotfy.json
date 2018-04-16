@@ -1,0 +1,36 @@
+{
+    "name": "Seif Lotfy",
+    "title": "Software Engineer",
+    "email": "me@seif.codes",
+    "phone": "",
+    "desc": "Yet another Software Developer yelling at the screen",
+    "website": "http://me@seif.codes",
+    "city": [
+        "Frankfurt",
+        "Darmstadt"
+    ],
+    "available": false,
+    "keywords": [
+        "microservices",
+        "distributed systems",
+        "serverless",
+        "performance"
+    ],
+    "profiles": {
+        "gravatar": "seif.lotfy@gmail.com",
+        "twitter": "http://twitter.com/seiflotfy",
+        "github": "http://github.com/seiflotfy",
+        "linkedin": "http://linkedin.com/in/seiflotfy",
+        "google+": "",
+        "facebook": "",
+        "xing": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
